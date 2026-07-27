@@ -98,7 +98,7 @@ https://smart-hydro-forecast-ai.streamlit.app
 
 ## 👨‍💻 Developer
 
-**Naveen Kumar G**
+**TEAM PROJECT**
 
 B.Tech Information Technology
 
